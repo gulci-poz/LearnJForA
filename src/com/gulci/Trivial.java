@@ -7,8 +7,6 @@ public class Trivial {
     // kaskadowanie konstruktora;
     // istnieją przypadki, kiedy musimy zdefiniować konstruktor bez argumentu (np. dla JUnit)
 
-    // 70.3 - The Object Class and Its Methods
-
     public Trivial() {
         this(0);
     }
